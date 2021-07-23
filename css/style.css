@@ -1,0 +1,21 @@
+body {
+    background-color: lightblue;
+}
+
+.redcenter {
+    color: red;
+    font-weight: bold;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+}
+
+.purpleleft {
+    color: purple;
+    text-align: left;
+}
+
+#uniquecolorfont {
+    color: yellow;
